@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-23T17:14:25 EDT" name="Default suite" finished-at="2022-03-23T17:15:14 EDT" duration-ms="48715">
+    <groups>
+    </groups>
+    <test started-at="2022-03-23T17:14:25 EDT" name="Default test" finished-at="2022-03-23T17:15:14 EDT" duration-ms="48715">
+      <class name="alfa.Test.TestGet">
+        <test-method is-config="true" signature="setup()[pri:0, instance:alfa.Test.TestGet@a38c7fe]" started-at="2022-03-23T17:14:25 EDT" name="setup" finished-at="2022-03-23T17:14:25 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestListUser()[pri:0, instance:alfa.Test.TestGet@a38c7fe]" started-at="2022-03-23T17:14:25 EDT" name="TestListUser" finished-at="2022-03-23T17:14:27 EDT" duration-ms="1928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestListUser -->
+        <test-method signature="TestListValidUserDetail()[pri:0, instance:alfa.Test.TestGet@a38c7fe]" started-at="2022-03-23T17:14:27 EDT" name="TestListValidUserDetail" finished-at="2022-03-23T17:14:28 EDT" duration-ms="520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestListValidUserDetail -->
+        <test-method signature="TestListValidUsers()[pri:0, instance:alfa.Test.TestGet@a38c7fe]" started-at="2022-03-23T17:14:28 EDT" name="TestListValidUsers" finished-at="2022-03-23T17:15:14 EDT" duration-ms="46241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestListValidUsers -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:alfa.Test.TestGet@a38c7fe]" started-at="2022-03-23T17:15:14 EDT" name="teardown" finished-at="2022-03-23T17:15:14 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- alfa.Test.TestGet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
